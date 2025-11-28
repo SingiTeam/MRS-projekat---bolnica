@@ -17,7 +17,7 @@ Model prikazuje kako bi izgledaо **prototip sistema** kroz dijagrame, dakle ovo
 
 U repo fajlovima se nalaze:
 
-- Dijagrami (use case, class dijagram, arhitektura)
+- Dijagrami (use case, class dijagram, arhitektura rešenja)
 - Opisi slučajeva korišćenja u use case dijagramu
 - Figma skice korisničkog interfejsa
 
@@ -25,11 +25,12 @@ U repo fajlovima se nalaze:
 UI Prototip sistema sa tačke gledišta pacijenta može se pogledati na sledećem linku:
 https://shorturl.at/OnQ0H
 
-UI Prototip sistema sa tačke doktora može se pogledati na sledećem linku:
+UI Prototip sistema sa tačke gledišta doktora može se pogledati na sledećem linku:
 https://shorturl.at/FfCz9
 
 ## Upotrebljeni alati
 
 - Astah Professional – za crtanje dijagrama  
 - Figma – za izradu UI skica  
-- GitHub – za verzionisanje i rad u timu  
+- GitHub – za verzionisanje i rad u timu
+- Trello - za komunikaciju tokom rada u timu
