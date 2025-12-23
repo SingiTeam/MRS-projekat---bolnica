@@ -8,29 +8,32 @@ Model prikazuje kako bi izgledaо **prototip sistema** kroz dijagrame, dakle ovo
 
 ## Članovi tima
 
-- Mladen Čolović  
-- Jovica Petaković  
-- Ognjen Garaji  
-- Nikola Milašinović
+* Mladen Čolović
+* Jovica Petaković
+* Ognjen Garaji
+* Nikola Milašinović
 
 ## Sadržaj projekta
 
 U repo fajlovima se nalaze:
 
-- Dijagrami (use case, class dijagram, arhitektura rešenja)
-- Opisi slučajeva korišćenja u use case dijagramu
-- Figma skice korisničkog interfejsa
+* Dijagrami (use case, class dijagram, arhitektura rešenja)
+* Opisi slučajeva korišćenja u use case dijagramu
+* Figma skice korisničkog interfejsa
 
 ## Figma prototip
+
 UI Prototip sistema sa tačke gledišta pacijenta može se pogledati na sledećem linku:
 https://shorturl.at/OnQ0H
 
 UI Prototip sistema sa tačke gledišta doktora može se pogledati na sledećem linku:
 https://shorturl.at/FfCz9
 
+Link ka prezentaciji: https://shorturl.at/MnRyX
+
 ## Upotrebljeni alati
 
-- Astah Professional – za crtanje dijagrama  
-- Figma – za izradu UI skica  
-- GitHub – za verzionisanje i rad u timu
-- Trello - za komunikaciju tokom rada u timu
+* Astah Professional – za crtanje dijagrama
+* Figma – za izradu UI skica
+* GitHub – za verzionisanje i rad u timu
+* Trello - za komunikaciju tokom rada u timu
